@@ -1,0 +1,12 @@
+{
+  "name": "webrtc-messenger",
+  "version": "1.0.0",
+  "description": "Peer-to-peer WebRTC messenger with signaling server",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "ws": "^8.17.0"
+  }
+}
